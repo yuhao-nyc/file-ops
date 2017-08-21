@@ -1,0 +1,12 @@
+{
+  "name": "file-ops",
+  "version": "1.0.0",
+  "description": "Simple File ops application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./lib/append.js && node ./lib/rename.js",
+    "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
+    "test:watch": "npm run test -- --watch"
+  },
+  "author": "Yuhao Feng"
+}
