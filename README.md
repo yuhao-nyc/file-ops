@@ -1,9 +1,9 @@
-A Node.JS File System Ops
+<h1>A Node.JS File System Ops</h1>
 
 Instruction:
-Clone or download the Zip file.
-Go to your dir, npm install and npm start
-Voila, all the good stuff!
+Clone or download the Zip file <br>
+Go to your dir, npm install and npm start <br>
+Hmmm, all the good stuff!
 
 TODO list:
 1. Add test units on file names, file types
